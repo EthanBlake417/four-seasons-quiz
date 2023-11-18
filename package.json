@@ -1,13 +1,13 @@
 {
   "name": "four_seasons",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Quiz to see what season you are.",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ethan Blake",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
