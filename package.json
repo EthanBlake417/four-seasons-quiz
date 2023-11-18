@@ -2,9 +2,9 @@
   "name": "four_seasons",
   "version": "1.0.0",
   "description": "Quiz to see what season you are.",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Ethan Blake",
