@@ -60,7 +60,10 @@ function calculateResult(scores) {
     return resultSeason;
 }
 
-
+// Catch-all route
+app.get('*', (req, res) => {
+    res.send('This is the catch-all route');
+  });
 
 
 app.listen(port, () => {
