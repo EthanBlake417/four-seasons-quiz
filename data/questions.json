@@ -1,0 +1,350 @@
+[
+  {
+    "question": "When do you feel most energized?",
+    "choices": [
+      {
+        "answer": "During lively social gatherings",
+        "season": "Summer",
+        "points": 1.0,
+        "img_path": "images/lively_social_gatherings.png"
+      },
+      {
+        "answer": "In quiet moments of reflection",
+        "season": "Autumn",
+        "points": 1.0,
+        "img_path": "images/quiet_moments.png"
+      },
+      {
+        "answer": "While cozying up at home",
+        "season": "Winter",
+        "points": 1.0,
+        "img_path": "images/cozy_up_at_home.png"
+      },
+      {
+        "answer": "During a fresh start or new beginning",
+        "season": "Spring",
+        "points": 1.0,
+        "img_path": "images/fresh_start.png"
+      }
+    ]
+  },
+  {
+    "question": "Choose a type of movie you prefer:",
+    "choices": [
+      {
+        "answer": "Action-packed adventure",
+        "season": "Summer",
+        "points": 1.0,
+        "img_path": "images/action_adventure.png"
+      },
+      {
+        "answer": "Thought-provoking drama",
+        "season": "Autumn",
+        "points": 1.0,
+        "img_path": "images/thought_provoking_drama.png"
+      },
+      {
+        "answer": "Heartwarming tale",
+        "season": "Winter",
+        "points": 1.0,
+        "img_path": "images/heartwarming_tale.png"
+      },
+      {
+        "answer": "Uplifting and inspirational story",
+        "season": "Spring",
+        "points": 1.0,
+        "img_path": "images/inspirational_story.png"
+      }
+    ]
+  },
+  {
+    "question": "What is your preferred kind of vacation?",
+    "choices": [
+      {
+        "answer": "An adventure in a bustling city",
+        "season": "Summer",
+        "points": 1.0,
+        "img_path": "images/bustling_city.png"
+      },
+      {
+        "answer": "A retreat in a quiet, secluded place",
+        "season": "Autumn",
+        "points": 1.0,
+        "img_path": "images/secluded_retreat.png"
+      },
+      {
+        "answer": "A cozy cabin getaway",
+        "season": "Winter",
+        "points": 1.0,
+        "img_path": "images/cabin_getaway.png"
+      },
+      {
+        "answer": "An exploration of natural landscapes",
+        "season": "Spring",
+        "points": 1.0,
+        "img_path": "images/natural_landscapes.png"
+      }
+    ]
+  },
+  {
+    "question": "Choose a color palette that appeals to you the most:",
+    "choices": [
+      {
+        "answer": "Bright and vivid colors",
+        "season": "Summer",
+        "points": 1.0,
+        "img_path": "images/bright_colors.png"
+      },
+      {
+        "answer": "Deep and rich tones",
+        "season": "Autumn",
+        "points": 1.0,
+        "img_path": "images/rich_tones.png"
+      },
+      {
+        "answer": "Soft and muted hues",
+        "season": "Winter",
+        "points": 1.0,
+        "img_path": "images/soft_hues.png"
+      },
+      {
+        "answer": "Fresh and vibrant shades",
+        "season": "Spring",
+        "points": 1.0,
+        "img_path": "images/fresh_shades.png"
+      }
+    ]
+  },
+  {
+    "question": "If you were to write a book, what genre would it be?",
+    "choices": [
+      {
+        "answer": "An exhilarating adventure",
+        "season": "Summer",
+        "points": 1.0,
+        "img_path": "images/An_exhilarating_adventure.png"
+      },
+      {
+        "answer": "A deep psychological thriller",
+        "season": "Autumn",
+        "points": 1.0,
+        "img_path": "images/A_deep_psychological_thriller.png"
+      },
+      {
+        "answer": "A heartwarming family story",
+        "season": "Winter",
+        "points": 1.0,
+        "img_path": "images/A_heartwarming_family_story.png"
+      },
+      {
+        "answer": "An inspiring personal growth journey",
+        "season": "Spring",
+        "points": 1.0,
+        "img_path": "images/An_inspiring_personal_growth_journey.png"
+      }
+    ]
+  },
+  {
+    "question": "Which of these hobbies would you most likely pick up?",
+    "choices": [
+      {
+        "answer": "Extreme sports",
+        "season": "Summer",
+        "points": 1.0,
+        "img_path": "images/Extreme_sports.png"
+      },
+      {
+        "answer": "Artistic painting",
+        "season": "Autumn",
+        "points": 1.0,
+        "img_path": "images/Artistic_painting.png"
+      },
+      {
+        "answer": "Knitting or crafting",
+        "season": "Winter",
+        "points": 1.0,
+        "img_path": "images/Knitting_or_crafting.png"
+      },
+      {
+        "answer": "Gardening",
+        "season": "Spring",
+        "points": 1.0,
+        "img_path": "images/Gardening.png"
+      }
+    ]
+  },
+  {
+    "question": "What type of music uplifts your spirit?",
+    "choices": [
+      {
+        "answer": "Energetic pop or rock",
+        "season": "Summer",
+        "points": 1.0,
+        "img_path": "images/Energetic_pop_or_rock.png"
+      },
+      {
+        "answer": "Soulful blues or jazz",
+        "season": "Autumn",
+        "points": 1.0,
+        "img_path": "images/Soulful_blues_or_jazz.png"
+      },
+      {
+        "answer": "Relaxing classical or instrumental",
+        "season": "Winter",
+        "points": 1.0,
+        "img_path": "images/Relaxing_classical_or_instrumental.png"
+      },
+      {
+        "answer": "Cheerful folk or indie",
+        "season": "Spring",
+        "points": 1.0,
+        "img_path": "images/Cheerful_folk_or_indie.png"
+      }
+    ]
+  },
+  {
+    "question": "Select a dream home environment:",
+    "choices": [
+      {
+        "answer": "A vibrant urban loft",
+        "season": "Summer",
+        "points": 1.0,
+        "img_path": "images/A_vibrant_urban_loft.png"
+      },
+      {
+        "answer": "A cozy rural cottage",
+        "season": "Autumn",
+        "points": 1.0,
+        "img_path": "images/A_cozy_rural_cottage.png"
+      },
+      {
+        "answer": "A serene mountain chalet",
+        "season": "Winter",
+        "points": 1.0,
+        "img_path": "images/A_serene_mountain_chalet.png"
+      },
+      {
+        "answer": "A breezy beachside bungalow",
+        "season": "Spring",
+        "points": 1.0,
+        "img_path": "images/A_breezy_beachside_bungalow.png"
+      }
+    ]
+  },
+  {
+    "question": "Which of these animals do you feel a kinship with?",
+    "choices": [
+      {
+        "answer": "A spirited horse",
+        "season": "Summer",
+        "points": 1.0,
+        "img_path": "images/A_spirited_horse.png"
+      },
+      {
+        "answer": "A wise owl",
+        "season": "Autumn",
+        "points": 1.0,
+        "img_path": "images/A_wise_owl.png"
+      },
+      {
+        "answer": "A cuddly bear",
+        "season": "Winter",
+        "points": 1.0,
+        "img_path": "images/A_cuddly_bear.png"
+      },
+      {
+        "answer": "A playful dolphin",
+        "season": "Spring",
+        "points": 1.0,
+        "img_path": "images/A_playful_dolphin.png"
+      }
+    ]
+  },
+  {
+    "question": "What kind of party would you prefer to host?",
+    "choices": [
+      {
+        "answer": "A lively outdoor BBQ",
+        "season": "Summer",
+        "points": 1.0,
+        "img_path": "images/A_lively_outdoor_BBQ.png"
+      },
+      {
+        "answer": "An intimate dinner party",
+        "season": "Autumn",
+        "points": 1.0,
+        "img_path": "images/An_intimate_dinner_party.png"
+      },
+      {
+        "answer": "A cozy get-together with close friends",
+        "season": "Winter",
+        "points": 1.0,
+        "img_path": "images/A_cozy_get_together_with_close_friends.png"
+      },
+      {
+        "answer": "A casual garden brunch",
+        "season": "Spring",
+        "points": 1.0,
+        "img_path": "images/A_casual_garden_brunch.png"
+      }
+    ]
+  },
+  {
+    "question": "What's your favorite way to relax?",
+    "choices": [
+      {
+        "answer": "Engaging in outdoor sports",
+        "season": "Summer",
+        "points": 1.0,
+        "img_path": "images/Engaging_in_outdoor_sports.png"
+      },
+      {
+        "answer": "Reading by the fireside",
+        "season": "Autumn",
+        "points": 1.0,
+        "img_path": "images/Reading_by_the_fireside.png"
+      },
+      {
+        "answer": "Snuggling under a warm blanket",
+        "season": "Winter",
+        "points": 1.0,
+        "img_path": "images/Snuggling_under_a_warm_blanket.png"
+      },
+      {
+        "answer": "Taking a peaceful walk in nature",
+        "season": "Spring",
+        "points": 1.0,
+        "img_path": "images/Taking_a_peaceful_walk_in_nature.png"
+      }
+    ]
+  },
+  {
+    "question": "Which musical instrument resonates with you the most?",
+    "choices": [
+      {
+        "answer": "Electric guitar",
+        "season": "Summer",
+        "points": 1.0,
+        "img_path": "images/Electric_guitar.png"
+      },
+      {
+        "answer": "Cello",
+        "season": "Autumn",
+        "points": 1.0,
+        "img_path": "images/Cello.png"
+      },
+      {
+        "answer": "Piano",
+        "season": "Winter",
+        "points": 1.0,
+        "img_path": "images/Piano.png"
+      },
+      {
+        "answer": "Flute",
+        "season": "Spring",
+        "points": 1.0,
+        "img_path": "images/Flute.png"
+      }
+    ]
+  }
+]
