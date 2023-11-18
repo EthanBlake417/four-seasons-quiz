@@ -4,12 +4,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
 function loadQuestions() {
     fetch('/questions')
-        .then(response => response.json())
-        .then(questions => {
+        .then((response) => {
+            return response.json();
+        })
+        .then((questions) => {
             displayQuestions(questions);
         })
-        .catch(error => console.error('Error:', error));
+        .catch((error) => {
+            console.error('Error:', error);
+        });
 }
+
 
 let userAnswers = {};
 let currentQuestionIndex = 0;
